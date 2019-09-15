@@ -1,0 +1,18 @@
+{
+  "name": "airflight",
+  "version": "1.0.0",
+  "description": "Flight Reservation API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rafikhan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "glob": "^7.1.4",
+    "mongoose": "^5.7.1",
+    "morgan": "^1.9.1"
+  }
+}
